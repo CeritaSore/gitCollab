@@ -1,1 +1,11 @@
 # gitCollab
+- Fajar septianto
+- Mahez arya panangsang
+- Erick Darmawan 
+- Muhammad Anwar Fauzan
+- Riski eggy saputro
+- Dimas Andhika Firmansyah
+- Irgi Rama Sulistio (IrgiRamz)
+- Hadi Prasetiyo 
+- Carmennita
+- MOCH FiH FIKRI RAMADHAN
