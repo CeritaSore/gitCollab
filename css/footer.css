@@ -175,3 +175,9 @@
     font-weight:600
   }
 }
+
+.footer-icon {
+  display: inline-flex;
+  align-items: center;
+  color: white;
+}
