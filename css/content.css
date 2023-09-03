@@ -14,7 +14,7 @@
     padding: 24px;
 }
 
-.content h1, p {
+.content h1, p ,h2,li {
     color: white;
 }
 
