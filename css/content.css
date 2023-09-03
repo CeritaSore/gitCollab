@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Sansation Light";
+    src: url("https://db.onlinewebfonts.com/t/a163d087c4bfdff182eb1b4fcc595798.eot");
+    src: url("https://db.onlinewebfonts.com/t/a163d087c4bfdff182eb1b4fcc595798.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/a163d087c4bfdff182eb1b4fcc595798.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/a163d087c4bfdff182eb1b4fcc595798.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/a163d087c4bfdff182eb1b4fcc595798.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/a163d087c4bfdff182eb1b4fcc595798.svg#Sansation Light")format("svg");
+  }
+  
+.content {
+    background-color: #26272b;
+    font-family: Sansation Light;
+    padding: 24px;
+}
+
+.content h1, p {
+    color: white;
+}
+
+.content p {
+    text-align: justify;
+}
+
+.content p::first-letter {
+    font-size: xx-large;
+}
